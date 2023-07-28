@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://picbed.chengfu.co/box/animation/index.html</loc>
+    <loc>https://picbed.chengfu.co/box/nav/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://picbed.chengfu.co/box/nav/index.html</loc>
+    <loc>https://picbed.chengfu.co/box/animation/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -56,33 +56,6 @@
   </url>
   
   <url>
-    <loc>https://picbed.chengfu.co/life/movies/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://picbed.chengfu.co/site/census/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://picbed.chengfu.co/life/games/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://picbed.chengfu.co/personal/about/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
@@ -92,7 +65,7 @@
   </url>
   
   <url>
-    <loc>https://picbed.chengfu.co/life/music/index.html</loc>
+    <loc>https://picbed.chengfu.co/personal/bb/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -101,7 +74,7 @@
   </url>
   
   <url>
-    <loc>https://picbed.chengfu.co/personal/bb/index.html</loc>
+    <loc>https://picbed.chengfu.co/site/census/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -138,6 +111,33 @@
   
   <url>
     <loc>https://picbed.chengfu.co/social/link/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://picbed.chengfu.co/life/games/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://picbed.chengfu.co/life/music/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://picbed.chengfu.co/life/movies/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
